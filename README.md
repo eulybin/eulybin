@@ -10,7 +10,7 @@
 
 
 
-### 🌍 Let’s Connect!
+### 🌍 Let’s Connect
 
 - I’m always open to collaborate and grow with others! 🙏
 - Reach out and let's fix some problems with code!! 🚀
