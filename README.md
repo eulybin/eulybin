@@ -35,11 +35,7 @@
 
 ### 🌐 Languages
 
-🇺🇸 English
-
-🇪🇸 Spanish 
-
-🇷🇺 Russian 
+🇺🇸 English &nbsp; 🇪🇸 Spanish &nbsp; 🇷🇺 Russian
 
 
 
