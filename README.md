@@ -5,7 +5,7 @@
 
 💻 **Working on:** Building full-stack web applications with React.
 
-🔥 **Mission:** To build apps with real-world application and significance.
+🔥 **Mission:** To create scalable solutions for real-world problems.
 
 👾 **Fun fact:** I love playing chess. Challenge me to a game... if you dare! @egorcheck
 
@@ -21,7 +21,7 @@
 
 ### 🌍 Let’s Connect:
 
-🚀 **I’m always open to collaborate and grow with others! Reach out and let's fix some problems with code!** 
+🚀 **I’m always open to collaborate and grow with others! Reach out and let's fix things with code!** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/egor-ulybin/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:egorulybin@gmail.com)
