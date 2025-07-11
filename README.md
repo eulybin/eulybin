@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Egor! - `Full Stack Developer` &nbsp; [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)](https://www.python.org/)
+# 👋 Hi, I'm Egor! - `Full Stack Developer` &nbsp; 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=f4b01d&random=false&width=435&lines=Full+Stack+Developer;Something+Else)](https://git.io/typing-svg)
+
+
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)](https://www.python.org/)
+
+
 
 ### 🧑‍💻 About Me
 
