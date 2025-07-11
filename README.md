@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Egor! - `Full Stack Developer`
+# 👋 Hi, I'm Egor! - `Full-Stack Developer`
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ffc400&random=false&width=550&lines=Create+Read+Update+Delete+(CRUD);Keep+It+Simple+Stupid+(KISS);Don't+Repeat+Yourself+(DRY))](https://git.io/typing-svg)
 
 ## 🧑‍💻 About Me:
 
-💻 **Working on:** Full stack web apps with React and Django.
+💻 **Working on:** Building full-stack web applications with React.
 
 🔥 **Mission:** To build apps with real-world application and significance.
 
