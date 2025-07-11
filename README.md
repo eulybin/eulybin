@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Egor! - Full Stack Developer &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+# 👋 Hi, I'm Egor! - `Full Stack Developer` &nbsp; [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)](https://www.python.org/)
 
 ### 🧑‍💻 About Me
 
@@ -26,10 +26,8 @@
 
 🚀 I’m always open to collaborate and grow with others! Reach out and let's fix some problems with code! 
 
-
-📧 Email: egorulybin@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/egor-ulybin/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/egor-ulybin/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:egorulybin@gmail.com)
 
 ---
 
