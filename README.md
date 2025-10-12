@@ -4,8 +4,9 @@
 
 🚀 **Working on:** Full-stack web apps using modern frameworks and best practices.
 
-🎯 **Goal:** To create scalable solutions for real-world problems.
+🌱 **Looking to:** Grow with a great team and build purposeful platforms and systems.
 
+🎯 **Goal:** To create scalable solutions for real-world problems.
 
 ---
 
@@ -34,7 +35,7 @@
 
 ---
 
-### 🧩 Current Project:
+### 🧩 Currently Developing:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eulybin&repo=waypoint-app&theme=tokyonight)](https://github.com/eulybin/waypoint-app)
 
@@ -53,7 +54,7 @@
 
 ---
 
-### 🔥 Stats:
+### 🔥 Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=eulybin&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
