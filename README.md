@@ -34,7 +34,7 @@
 
 ---
 
-### 🧩 Current Project
+### 🧩 Current Project:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eulybin&repo=waypoint-app&theme=tokyonight)](https://github.com/eulybin/waypoint-app)
 
@@ -50,6 +50,8 @@
 ### 🌐 Languages:
 
 🇺🇸 English &nbsp; 🇪🇸 Spanish &nbsp; 🇷🇺 Russian
+
+---
 
 ### 🔥 Stats:
 
