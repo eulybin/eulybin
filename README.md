@@ -22,7 +22,6 @@
 **Backend:**  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
 
 **DevOps & Tools:**  
