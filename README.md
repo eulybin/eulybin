@@ -33,13 +33,6 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)](https://aws.amazon.com/)
 
 
-
----
-
-### 🧩 Currently Developing:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eulybin&repo=waypoint-app&theme=tokyonight)](https://github.com/eulybin/waypoint-app)
-
 ---
 
 ### 🌍 Let’s Connect:
